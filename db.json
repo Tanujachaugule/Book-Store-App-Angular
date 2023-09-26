@@ -1,0 +1,200 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "title": "Harri Potter Book",
+            "price": 109.95,
+            "description": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry",
+            "category": "Fantacy",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91l1Op79AWL.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+    
+        {
+            "id": 2,
+            "title": "Mark Twain",
+            "price": 22.3,
+            "description": "The Adventures of Huckleberry Finn by Mark Twain · Image of The Adventures of Huckleberry Finn. Revered by all of the town's children and dreaded by all of its .",
+            "category": "Bio-Graphy",
+            "image": "https://th.bing.com/th/id/OIP.DhNMuRk2epZqf5VZn9K1zgHaL_?pid=ImgDet&rs=1.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 259
+            }
+        },
+        {
+            "id": 3,
+            "title": "Pride And Prejudice",
+            "price": 55.99,
+            "description": "Arguably the greatest romance novel of all time, Austen's Pride and Prejudice follows the opinionated heroine, Elizabeth Bennet, as she frequently finds herself.",
+            "category": "Love Story",
+            "image": "https://th.bing.com/th/id/OIP.eqKhYAaFdi5LaDx8cJ2kHwHaEK?pid=ImgDet&rs=1.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        },
+        {
+            "id": 4,
+            "title": "Shivaji: The Great Maratha ",
+            "price": 15.99,
+            "description": "Chhatrapati Shivaji Maharaj or Shivaji was the founder of the Maratha empire. Born in 1630, he was formally crowned the Chhatrapati of his realm at Raigad.",
+            "category": "Bio-Graphy",
+            "image": "https://images.librarywala.com/book/medium/K1-120-a.jpg",
+            "rating": {
+                "rate": 2.1,
+                "count": 430
+            }
+        },
+        {
+            "id": 5,
+            "title": "The NoteBook",
+            "price": 695,
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "category": "Love Story",
+            "image": "https://th.bing.com/th/id/OIP.BzhSm0ckI1G5TDsUSAWaPQHaLS?pid=ImgDet&rs=1.jpg.",
+            "rating": {
+                "rate": 4.6,
+                "count": 400
+            }
+        },
+        {
+            "id": 6,
+            "title": "The Name Of The Wind ",
+            "price": 168,
+            "description": "The Name of the Wind, also referred to as The Kingkiller Chronicle: Day One, is a heroic fantasy novel written by American author Patrick Rothfuss. It is the first book in the ongoing fantasy trilogy The Kingkiller Chronicle, followed by The Wise Man's Fear",
+            "category": "Factacy",
+            "image": "https://th.bing.com/th/id/OIP.2MFOUaR3lZj6B-n4IUaDzQAAAA?pid=ImgDet&rs=1.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 70
+            }
+        },
+        {
+            "id": 7,
+            "title": "The Eye Of The world",
+            "price": 9.99,
+            "description": "The Eye of the World is a high fantasy novel by American writer Robert Jordan, the first book of The Wheel of Time series...",
+            "category": "Fantacy",
+            "image": "https://th.bing.com/th/id/OIP.xLrVkyXdOa98cx6iF5LqiwAAAA?pid=ImgDet&rs=1.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 400
+            }
+        },
+        {
+            "id": 8,
+            "title": "Alexander Hamilton",
+            "price": 10.99,
+            "description": "Alexander Hamilton is a 2004 biography of American statesman Alexander Hamilton, written by historian and biographer Ron Chernow",
+            "category": "Bio-Graphy",
+            "image": "https://3.bp.blogspot.com/-l0_V0SDOlvg/V1v7u9trIzI/AAAAAAAACs8/n6loRnSYuCA0gPCxwwe8GSfP8-D6o7kYACLcB/s1600/Ahamilton.jpg",
+            "rating": {
+                "rate": 1.9,
+                "count": 100
+            }
+        },
+        {
+            "id": 9,
+            "title": "The Story of My Experiments With Truth ",
+            "price": 64,
+            "description": "The Story of My Experiments with Truth is the autobiography of Mohandas Karamchand Gandhi, covering his life from early childhood through to 1921",
+            "category": "Bio-Graphy",
+            "image": "https://th.bing.com/th/id/OIP.WLK-wcoqEFHI-R-Fcnw3sAAAAA?pid=ImgDet&rs=1.jpg",
+            "rating": {
+                "rate": 3.3,
+                "count": 203
+            }
+        },
+        {
+            "id": 10,
+            "title": "Red Queen",
+            "price": 109,
+            "description": "Red Queen is a young adult fantasy novel written by American writer Victoria Aveyard. Published in February 2015, it was her first novel and first series. Aveyard followed up with three sequels: Glass Sword, King's Cage and War Storm.",
+            "category": "Fantacy",
+            "image": "https://fuzzable.com/wp-content/uploads/2017/03/Book-Review-Red-Queen-by-Victoria-Aveyard-01-608x942.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 470
+            }
+        },
+        {
+            "id": 11,
+            "title": "Story Of The Tatanic",
+            "price": 109,
+            "description": "This is the tragic story of the Titanic, the biggest and most luxurious ocean liner the world had ever seen, which sank on her maiden voyage in April 1912.",
+            "category": "Fantacy",
+            "image": "https://cdn2.penguin.com.au/covers/original/9780515157260.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 319
+            }
+        },
+        {
+            "id": 12,
+            "title": "Eleanor & Park",
+            "price": 114,
+            "description": "Eleanor & Park is the first young adult novel written by Rainbow Rowell. Published in 2012, the story follows dual narratives by Eleanor and Park, two misfits living in Omaha, Nebraska from 1986 to 1987",
+            "category": "Love Story ",
+            "image": "https://kbimages1-a.akamaihd.net/4bc23924-5832-461a-a44b-75ed7a9bcead/1200/1200/False/eleanor-park-1.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 400
+            }
+        },
+        {
+            "id": 13,
+            "title": "The Princess Bride",
+            "price": 599,
+            "description": "The Princess Bride: S. Morgenstern's Classic Tale of True Love and High Adventure, The Good Parts Version is a 1973 fantasy romance novel by American writer William Goldman",
+            "category": "Fantacy",
+            "image": "https://d1hekt5vpuuw9b.cloudfront.net/assets/0309a635beb9dd8c9b3d3d65da8dfc67_galleryimage_gallery.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 250
+            }
+        },
+        {
+            "id": 14,
+            "title": "Get a Life, Chloe Brown ",
+            "price": 999.99,
+            "description": "Get a Life, Chloe Brown is a 2019 romance novel written by Talia Hibbert and published by Avon Romance.",
+            "category": "Love Story ",
+            "image": "https://th.bing.com/th/id/OIP.0Rqj-tmv7JBg8hRGvl9ajgHaJ4?pid=ImgDet&rs=1.jpg",
+            "rating": {
+                "rate": 2.2,
+                "count": 140
+            }
+        },
+        
+        {
+            "id": 15,
+            "title": "John Adams",
+            "price": 29.95,
+            "description": "John Adams is a 2001 biography of the Founding Father and second U.S. President John Adams",
+            "category": "Bio-Graphy",
+            "image": "https://d3525k1ryd2155.cloudfront.net/f/639/813/9780684813639.HO.0.x.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 340
+            }
+        },
+        {
+            "id": 1,
+            "title": "To Kill A Watch",
+            "price": 109.95,
+            "description": "The tale of To Kill A Mockingbird is based on Harper Lee's memories of her family, her neighbours and an event that occurred near her hometown of Monroeville",
+            "category": "Fantacy",
+            "image": "https://i.pinimg.com/originals/7d/a0/8e/7da08e69a6af9cffbbf59f32f80163e2.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        }
+        
+        
+    ]
+}
